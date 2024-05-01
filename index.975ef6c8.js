@@ -2901,16 +2901,14 @@ $parcel$ReactRefreshHelpers$20e5.prelude(module);
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
-/**
- * Entry point of application, where App is rendered within the div with the id of "app" 
- */ var _react = require("react");
+var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _reactDom = require("react-dom");
 var _app = require("./App");
 var _appDefault = parcelHelpers.interopDefault(_app);
 (0, _reactDom.render)(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _appDefault.default), {}, void 0, false, {
     fileName: "src/index.js",
-    lineNumber: 10,
+    lineNumber: 6,
     columnNumber: 8
 }, undefined), document.getElementById("app"));
 
